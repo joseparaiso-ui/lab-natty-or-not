@@ -1,51 +1,44 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# 🌌 Controle Financeiro para Todos!
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+---
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Aplicativo **inclusivo** e **acolhedor** para controle financeiro de pessoas comuns.
+
+---
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+| Tecnologia | Finalidade |
+|------------|------------|
+| **ChatGPT-5.2** | Elaboração do prompt |
+| **Bolt.new** | Criação do aplicativo |
+
+---
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+1. Utilizei o **ChatGPT** para elaborar um prompt a ser usado no **Bolt.new**.  
+2. Comecei com a pergunta: *"O que é vibe coding?"*  
+3. Depois refinei o prompt:  
+   > "Na verdade, gostaria que você me ajudasse a criar um aplicativo usando *vibe coding*. Quero que me auxilie a criar um prompt bem completo para criar um app para controle financeiro para pessoas comuns. Um app inclusivo e acessível. Fácil de navegar. Intuitivo e universal."  
+4. Antes de criar o aplicativo, realizei alguns ajustes no prompt.
+
+---
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+✨ Aplicativo para controle financeiro  
+🔑 Sem necessidade de login  
+🖥️ Simples e intuitivo  
 
-### Exemplos e Insigths
+🔗 **[Acesse o aplicativo aqui](https://inclusive-financial-pmi4.bolt.host/)**
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+---
 
-## Links Interessantes
+## 💭 Reflexão
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+Mesmo utilizando um prompt criado com ajuda do ChatGPT, ainda foi preciso realizar ajustes no aplicativo.  
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+📌 Solicitação realizada:  
+> "Altere as categorias da seção *entrou dinheiro* para os tipos de fonte de recebimentos diversos, como salário ou comissão. Em ambos botões há as mesmas categorias. Isso é correto?"
